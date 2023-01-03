@@ -7,7 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		//1.
 	//	System.out.println("Main 메서드 실행");
-		
+		System.out.println("start");
 		MenuController menuController = new MenuController(); //해당 클래스의 객체 생성
 		
 		menuController.start();
