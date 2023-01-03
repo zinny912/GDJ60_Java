@@ -11,7 +11,8 @@ public class Main {
 		MenuController menuController = new MenuController(); //해당 클래스의 객체 생성
 		
 		menuController.start();
-	
+		
+		System.out.println("finish");
 		
 //	
 		
