@@ -13,6 +13,8 @@ public class Main {
 		menuController.start();
 		
 		System.out.println("finish");
+		System.out.println("집에서추가");
+		
 		
 //	
 		
