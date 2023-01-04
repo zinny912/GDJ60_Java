@@ -30,7 +30,7 @@ public class LoopFor1_ex3 {
 				System.out.println("로그인 실패");
 			}
 			
-		}
+		
 		if(/*a==0, check */ i>1000) {
 		System.out.println("환영합니다");
 		} else {
@@ -43,4 +43,5 @@ public class LoopFor1_ex3 {
 		}
 
 	}
+}
 
